@@ -1,0 +1,2 @@
+ARG TAG_CADVISOR
+FROM google/cadvisor:$TAG_CADVISOR
